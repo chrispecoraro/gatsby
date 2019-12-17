@@ -19,7 +19,7 @@
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-theme-blog#readme",
   "dependencies": {
     "@emotion/core": "^10.0.22",
-    "@mdx-js/react": "^1.5.1",
+    "@mdx-js/react": "^1.5.2",
     "@theme-ui/prism": "^0.2.50",
     "@theme-ui/typography": "^0.2.46",
     "deepmerge": "^4.2.2",
@@ -33,7 +33,7 @@
     "mdx-utils": "0.2.0",
     "react-helmet": "^5.2.1",
     "react-switch": "^5.0.1",
-    "theme-ui": "^0.2.49",
+    "theme-ui": "^0.2.52",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
     "typography-theme-wordpress-2016": "^0.16.19"
